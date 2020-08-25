@@ -1,2 +1,2 @@
 # Nanami-y.github.io
-Gitの練習用
+Githubでバージョン管理の練習をします。
